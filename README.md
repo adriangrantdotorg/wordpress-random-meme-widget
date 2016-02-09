@@ -6,6 +6,8 @@ Adds a widget to the admin dashboard showcasing a random meme.
 ### Description
 
 A simple plugin that adds a widget to the admin dashboard which showcases a random meme.
+![alt text](http://i.imgur.com/8dQIodC.png "Screenshot")
+
 
 ### Installation
 
